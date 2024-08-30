@@ -3,7 +3,9 @@ Nikolina Vikberg, Malmö
 
 Assignment 1: Shake
 Create our own app that uses Sensor Event Listners and Sensor Manger to show accelerometer data
-There is two activities(pages), first one holds progress bar UI components to show when user is moving the phone. If the user "shakes" the phone, a picture and a note will pop up.
+
+There is two activities(pages), first one holds progress bar UI components to show when user is moving the phone. 
+If the user "shakes" the phone, a picture and a note will pop up.
 User can click on button to switch activity to see actual numbers data on the second acitivity page, and then switch back to original page.
 
 
