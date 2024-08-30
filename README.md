@@ -1,4 +1,5 @@
 Mobile Development with Java in Android Studio
+
 Nikolina Vikberg, Malmö
 
 Assignment 1: Shake
