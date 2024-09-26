@@ -1,8 +1,8 @@
-#Mobile Development with Java in Android Studio
+# Mobile Development with Java in Android Studio
 
-##Simple accelerometer data App using teo activities, Sensor Event Listeners and Sensor Manager
+## Simple accelerometer data App using teo activities, Sensor Event Listeners and Sensor Manager
 
-###Nikolina Vikberg, Grit Academy Malmö
+### Nikolina Vikberg, Grit Academy Malmö
 
 Assignment 1: Shake
 Create our own app that uses Sensor Event Listners and Sensor Manger to show accelerometer data
