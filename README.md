@@ -1,12 +1,15 @@
-Mobile Development with Java in Android Studio
+#Mobile Development with Java in Android Studio
 
-Nikolina Vikberg, Malmö
+##Simple accelerometer data App using teo activities, Sensor Event Listeners and Sensor Manager
+
+###Nikolina Vikberg, Grit Academy Malmö
 
 Assignment 1: Shake
 Create our own app that uses Sensor Event Listners and Sensor Manger to show accelerometer data
 
-There is two activities(pages), first one holds progress bar UI components to show when user is moving the phone. 
-If the user "shakes" the phone, a picture and a note will pop up.
+How the app works: 
+There are two activities(pages), first one holds progress bar (UI components) to show when user is moving the phone. 
+If the user "shakes" the phone, a picture and a note will pop up along with a Toast message.
 User can click on button to switch activity to see actual numbers data on the second acitivity page, and then switch back to original page.
 
 User can move the phone and the progress bars will change 
